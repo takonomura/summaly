@@ -1,6 +1,6 @@
 {
   "name": "summaly",
-  "version": "2.5.0",
+  "version": "2.7.0",
   "description": "Get web page's summary",
   "author": "syuilo <syuilotan@yahoo.co.jp>",
   "license": "MIT",
@@ -26,8 +26,9 @@
     "cheerio": "0.22.0",
     "debug": "4.3.3",
     "escape-regexp": "0.0.1",
-    "got": "11.5.1",
+    "got": "11.8.5",
     "html-entities": "2.3.2",
+    "iconv-lite": "0.6.3",
     "jschardet": "3.0.0",
     "koa": "2.13.4",
     "private-ip": "2.3.3",
